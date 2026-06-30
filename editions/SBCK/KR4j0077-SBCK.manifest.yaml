@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR4j0077/SBCK/v1
+canonical_location: https://kanripo.org/bkk/KR4j0077/SBCK/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 增修箋注妙選羣英草堂詩餘前後集
+  date: '2015-09-11 23:37:06.843885'
+  source:
+    repository: kanripo
+    path: KR4j0077
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0077_000-SBCK.yaml, hash: 'sha256:380f9dd4aeb906f4747e0bfc1a9c8db9dadf7b3d90c12feba8ad791b8907274f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0077_000-SBCK.markers.yaml, hash: 'sha256:b78a2cf83697fefaebb34a0a14b58cb9c7ee45bfc90fd8b549edee035d4570ca'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0077_SBCK_000-1a
+    span:
+    - body
+    - 0
+    - 64586
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:00a17e256002675b3271f3f47eb6da34d6c858c8e01a7f2e7962ce2a1760c974
