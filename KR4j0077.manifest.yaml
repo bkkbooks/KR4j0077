@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4j0077/v1
 canonical_location: https://kanripo.org/bkk/KR4j0077/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 增修箋注妙選羣英草堂詩餘前後集
   date: '2015-09-11 23:37:06.843885'
@@ -20,9 +20,9 @@ editions:
   label: 【四部叢刊】
 assets:
   parts:
-  - {seq: 0, filename: KR4j0077_000.yaml, hash: 'sha256:23fe5a1ac44bc70aa0aeab32dcabfb406d04648e8e0ebec2e6a6dae5f1facf9a'}
+  - {seq: 0, filename: KR4j0077_000.yaml, hash: 'sha256:1c1d83bb16ff170a15e52526b3003c0ab7e39b4fcf810f62897d9398c129f01f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0077_000.markers.yaml, hash: 'sha256:e886ddb695aae2ed445a4b206bca5a318b170b6726b2d3628e47cdb6ef645d9f'}
+  - {seq: 0, role: markers, filename: assets/KR4j0077_000.markers.yaml, hash: 'sha256:3c5a73ec2f489181309729af927c2a40b847d15fedabbd7f6d7d3fe1c18ce625'}
 table_of_contents:
 - ref:
     seq: 0
@@ -34,4 +34,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:437421c8087876932bab30847c78123a2ed3321d76ab9d707a0ea8b71b9e7056
+hash: sha256:ab924757bf01425213b058535cf23ffe9d8a864bee4a4ba765e867d26b682ecd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
